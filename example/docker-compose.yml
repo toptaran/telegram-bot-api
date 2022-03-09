@@ -2,7 +2,7 @@ version: '3.7'
 
 services:
   api:
-    image: aiogram/telegram-bot-api:latest
+    image: toptaran/telegram-bot-api:latest
     restart: always
     environment:
       TELEGRAM_API_ID:
