@@ -1,4 +1,4 @@
-image_name := aiogram/telegram-bot-api
+image_name := toptaran/telegram-bot-api
 image_tag := $(shell date +%Y%m%d)
 
 .PHONY: update
